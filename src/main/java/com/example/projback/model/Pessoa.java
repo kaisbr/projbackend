@@ -21,7 +21,7 @@ public class Pessoa {
 
     private int idade;
 
-    // Getters e Setters
+  
     public Long getId() {
         return id;
     }
