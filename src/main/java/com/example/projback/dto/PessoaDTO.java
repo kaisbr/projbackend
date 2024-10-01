@@ -6,7 +6,7 @@ public class PessoaDTO {
     private String cpf;
     private int idade;
 
-    // Getters e Setters
+    
     public String getNome() {
         return nome;
     }
